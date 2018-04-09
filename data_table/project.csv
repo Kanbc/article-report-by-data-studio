@@ -1,11 +1,11 @@
-id,name
-1,Yizhang Chengguanzhen
-2,Il’ichëvo
-3,Gedangan
-4,Zhoutian
-5,Izhmorskiy
-6,Yingkeng
-7,Taytay
-8,Donglu
-9,Nishiwaki
-10,Nossa Senhora do Socorro
+id,name,location
+1,Yizhang Chengguanzhen,"13.774123, 100.538318"
+2,Il’ichëvo,"13.744777, 100.632045"
+3,Gedangan,"13.733438, 100.547931"
+4,Zhoutian,"13.769454, 100.491626"
+5,Izhmorskiy,"13.724766, 100.504329"
+6,Yingkeng,"13.744777, 100.632045"
+7,Taytay,"13.760450, 100.568187"
+8,Donglu,"13.760450, 100.568187"
+9,Nishiwaki,"13.724766, 100.504329"
+10,Nossa Senhora do Socorro,"13.733438, 100.547931"
